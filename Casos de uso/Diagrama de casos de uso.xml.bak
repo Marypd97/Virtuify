@@ -15,7 +15,7 @@
 					<xmi:Extension extender='MagicDraw UML 18.4'>
 						<diagramRepresentation>
 							<diagram:DiagramRepresentationObject ID='_18_4_1_a7002b4_1617941167953_187487_5813' diagramStyleID='_18_4_1_a7002b4_1617947253279_89427_7550' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Use Case Diagram' umlType='Use Case Diagram' xmi:id='_6VcBQJjoEeunQ8WaJYtm4g' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-								<diagramContents contentHash='359cab7c-0ea6-4e99-8ce4-5562c3e918a4' exporterName='MagicDraw UML' exporterVersion='18.4 v2' xmi:id='_6VcBQZjoEeunQ8WaJYtm4g'>
+								<diagramContents contentHash='b4c32f69-4153-4688-a33d-64892f1ef9d4' exporterName='MagicDraw UML' exporterVersion='18.4 v2' xmi:id='_6VcBQZjoEeunQ8WaJYtm4g'>
 									<binaryObject streamContentID='BINARY-1ed44d54-4b49-432e-8669-b4f38f44dee1' xmi:id='_6VcoUJjoEeunQ8WaJYtm4g' xsi:type='binary:StreamIdentityBinaryObject'/>
 									<usedObjects href='#_18_4_1_a7002b4_1618466297054_661960_6124'/>
 									<usedObjects href='#_18_4_1_a7002b4_1618466304842_592918_6185'/>
@@ -110,7 +110,7 @@
 					<xmi:Extension extender='MagicDraw UML 18.4'>
 						<diagramRepresentation>
 							<diagram:DiagramRepresentationObject ID='_18_4_1_a7002b4_1617943079336_606218_6644' diagramStyleID='_18_4_1_a7002b4_1617947253279_89427_7550' initialFrameSizeSet='true' requiredFeature=';UML_Standard_Profile.mdzip^UML_FEATURE' type='Use Case Diagram' umlType='Use Case Diagram' xmi:id='_XJxygJjtEeunQ8WaJYtm4g' xmi:version='2.0' xmlns:binary='http://www.nomagic.com/ns/cameo/client/binary/1.0' xmlns:diagram='http://www.nomagic.com/ns/magicdraw/core/diagram/1.0' xmlns:xmi='http://www.omg.org/XMI' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
-								<diagramContents contentHash='1359056c-93c4-4318-af25-920d39399be1' exporterName='MagicDraw UML' exporterVersion='18.4 v2' xmi:id='_XJyZkJjtEeunQ8WaJYtm4g'>
+								<diagramContents contentHash='3e850d7b-cd2d-4c1a-9d66-664506c2176a' exporterName='MagicDraw UML' exporterVersion='18.4 v2' xmi:id='_XJyZkJjtEeunQ8WaJYtm4g'>
 									<binaryObject streamContentID='BINARY-18acf9e4-a127-4442-a7f9-b5c2346b435a' xmi:id='_XJyZkZjtEeunQ8WaJYtm4g' xsi:type='binary:StreamIdentityBinaryObject'/>
 									<usedObjects href='#_18_4_1_a7002b4_1618528086099_410269_6254'/>
 									<usedObjects href='#_18_4_1_a7002b4_1618528092047_667818_6298'/>
@@ -450,8 +450,8 @@
 			<tag name='MagicDraw_Profile:TODO_Owner:TODO' tagID='magicdraw_1045467069669_523610_0' tagURI='local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#magicdraw_1045467069669_523610_0'/>
 		</stereotypesHREFS>
 	</xmi:Extension>
-	<MagicDraw_Profile:DiagramInfo xmi:id='_18_4_1_a7002b4_1617941167909_214926_5804' base_Diagram='_18_4_1_a7002b4_1617941167796_778193_5792' Creation_date='08/04/21 11:06 PM' Modification_date='19/04/21 01:28 AM' Author='Pacheco' Last_modified_by='Pacheco'/>
 	<MagicDraw_Profile:DiagramInfo xmi:id='_18_4_1_a7002b4_1617943079331_866229_6635' base_Diagram='_18_4_1_a7002b4_1617943079326_563672_6624' Creation_date='08/04/21 11:37 PM' Modification_date='18/04/21 01:46 PM' Author='Pacheco' Last_modified_by='Pacheco'/>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_18_4_1_a7002b4_1617941167909_214926_5804' base_Diagram='_18_4_1_a7002b4_1617941167796_778193_5792' Creation_date='08/04/21 11:06 PM' Modification_date='18/04/21 11:05 PM' Author='Pacheco' Last_modified_by='Pacheco'/>
 	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589745266_749913_6224' base_UseCase='_18_4_1_a7002b4_1617941214579_415963_5854' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='1'>
 		<Basic_Flow_of_Events>1. Se ingresa a la pantalla de inicio de sesión
 </Basic_Flow_of_Events>
@@ -553,57 +553,74 @@
 &lt;/html&gt;</Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>6. Se redirige a la pantalla de inicio</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
-	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589787883_788179_6236' base_UseCase='_18_4_1_a7002b4_1617941281203_234087_5878' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='2'>
-		<Basic_Flow_of_Events>1. Se ingresa a la pantalla inicio de sesión
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Se ingresan los datos:
-• Usuario: tamaño (12) formato (usuario)
-• Contraseña: tamaño (6-12) formato(alfanumérico123)
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. Se valida la cuenta, de la siguiente manera:
-3.1 Se accede a la tabla de lista_de_usuarios
-3.2 Si el usuario existe en la tabla lista_de_usuarios, se verifica que la contraseña asociada coincida con la ingresada.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. Si no pasan la validación se muestra el mensaje “Usuario y contraseña incorrectos”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. Si pasa la validación se redirige a la pantalla de “Mi tienda</Basic_Flow_of_Events>
-	</UseCase_Description_Profile:requirementUseCase>
-	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618590023515_946369_6319' base_UseCase='_18_4_1_a7002b4_1617941788729_709698_6067' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='7'>
-		<Basic_Flow_of_Events>1. Se ingresa a la pantalla “historial de compras”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Si el historial de compras está vacío:
-2.1 Mostrar el mensaje “No se ha registrado ninguna compra”.
-2.2 Se redirige a la pantalla “Mi Tienda”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. Si el historial tiene al menos un producto, se selecciona el producto de interés.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. Si el estado es “calificado” se muestra el mensaje “Ya no se puede volver a calificar”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. Si el estado de dicho producto es “Sin calificar” entonces:
-5.1. Se muestra la pantalla de calificación del producto de interés
-5.2. El usuario califica el producto del 1 al 10.
-5.3. Se actualiza la calificación del producto.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>6. Se redirige a la pantalla “Historial de Descargas”.</Basic_Flow_of_Events>
-	</UseCase_Description_Profile:requirementUseCase>
 	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589913141_552426_6272' base_UseCase='_18_4_1_a7002b4_1617941752433_787908_6043' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='5'>
 		<Basic_Flow_of_Events>1. Se ingresa a la pantalla “Historial de Compras”
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>2. Si el historial de compras está vacío:
 2.1 Mostrar el mensaje “No se ha registrado ninguna compra”
-2.2 Se muestra la pantalla de productos.
+2.2 Se muestra la pantalla de productos
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>3. Si el historial de compras tiene al menos un producto, entonces se selecciona el producto de interés.
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. Se selecciona la opción “descargar”.
+		<Basic_Flow_of_Events>4. Se selecciona la opción “descargar”
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. El sistema envía nombre y extensión del archivo en una solicitud al servidor para acceder al archivo.
+		<Basic_Flow_of_Events>5. El sistema envía nombre y extensión del archivo en una solicitud al servidor para acceder al archivo
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>6. El servidor busca el archivo en el sistema de archivos.
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>7. El sistema envía el archivo.
+		<Basic_Flow_of_Events>7. Se recibe el archivo</Basic_Flow_of_Events>
+	</UseCase_Description_Profile:requirementUseCase>
+	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618589840584_70542_6248' base_Element='_18_4_1_a7002b4_1617941560970_734509_5971'>
+		<TODO>&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</TODO>
+	</MagicDraw_Profile:TODO_Owner>
+	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589840584_70542_6248application1' base_UseCase='_18_4_1_a7002b4_1617941560970_734509_5971' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='3'>
+		<Basic_Flow_of_Events> 1. Se ingresa a la pantalla “Mi Tienda”</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>2. Se selecciona el producto de interés
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>8. Se descarga el archivo.</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>3. Se selecciona la opción “comprar”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>4. Se valida el producto en la tabla historial de compras del usuario
+4.1 El sistema ingresa a la tabla historial_de_compras
+4.2 Si el código del producto está en la tabla historial_de_compras,  se muestra el mensaje “Usted ya posee el producto”
+4.3 Si el código del producto no se encuentra en la tabla historial_de_compras :
+4.3.1 Se muestran los detalles (código y precio) para la compra del producto
+4.3.2 Se solicita confirmar los detalles para la compra
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>5. Si se confirman los detalles para la compra del producto, se resta el precio asociado al código del producto seleccionado al saldo del usuario
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>6. Se añaden el código, nombre, y estado de calificación del producto a la tabla historial_de_compras
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>7. Si no se confirman los detalles para la compra del producto se muestra el mensaje “Se ha cancelado la compra”</Basic_Flow_of_Events>
+	</UseCase_Description_Profile:requirementUseCase>
+	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618590023515_946369_6319' base_UseCase='_18_4_1_a7002b4_1617941788729_709698_6067' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='7'>
+		<Basic_Flow_of_Events>1. Se ingresa a la pantalla “historial de compras”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>2. Si el historial de compras está vacío:
+2.1 Mostrar el mensaje “No se ha registrado ninguna compra”
+2.2 Se redirige a la pantalla “Mi Tienda”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>3. Si el historial tiene al menos un producto, se selecciona el producto de interés
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>4. Si el estado es “calificado” se muestra el mensaje “Ya no se puede volver a calificar”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>5. Si el estado de dicho producto es “Sin calificar”
+5.1 Se muestra la pantalla de calificación del producto de interés
+5.2 Se califica el producto del 1 al 10
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>6. Se redirige a la pantalla “Historial de Descargas”</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
 	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618590764050_647709_6345' base_Element='_18_4_1_a7002b4_1617941888194_98514_6139'>
 		<TODO>&lt;html&gt;
@@ -630,6 +647,33 @@
 a. El sistema ingresa a la tabla contenidos
 b. Se ordenan los registros de acuerdo con el número de descargas
 c. Se muestra la información al usuario</Basic_Flow_of_Events>
+	</UseCase_Description_Profile:requirementUseCase>
+	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618590068566_844555_6333' base_Element='_18_4_1_a7002b4_1617941909978_408017_6163'>
+		<TODO>&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</TODO>
+	</MagicDraw_Profile:TODO_Owner>
+	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618590068566_844555_6333application1' base_UseCase='_18_4_1_a7002b4_1617941909978_408017_6163' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='8'>
+		<Basic_Flow_of_Events> 
+1. Se ingresa la pantalla “Mi tienda”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>2. Se selecciona la opción “Ver ranking major puntuados”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>3. El sistema muestra 10 contenidos ordenados en forma ascendente de al valor promedio de calificación, para esto:
+3.1 El sistema ingresa a la tabla contenidos
+3.2 Se ordenan los registros de acuerdo con el valor promedio de calificación
+3.3 Se muestra la información al usuario</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
 	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618591138222_401440_6818' base_Element='_18_4_1_a7002b4_1617943472181_299686_6790'>
 		<TODO>&lt;html&gt;
@@ -824,6 +868,31 @@ c. Se muestra la información al usuario</Basic_Flow_of_Events>
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>5. El sistema muestra una lista con los resultados del paso 4</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
+	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618591511758_187177_7263' base_Element='_18_4_1_a7002b4_1617943825280_861670_7032'>
+		<TODO>&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</TODO>
+	</MagicDraw_Profile:TODO_Owner>
+	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618591511758_187177_7263application1' base_UseCase='_18_4_1_a7002b4_1617943825280_861670_7032' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='18'>
+		<Basic_Flow_of_Events>1. Se ingresa a la pantalla principal de Administración.
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>2. Se selecciona la opción “ Ver Ranking de usuarios”.
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>3. El sistema accede a la vista de “ranking de usuarios”.
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>4. El sistema muestra el resultado de la consulta anterior (una lista de usuarios ordenados en forma descendente según la cantidad de descargas efectuadas en los últimos 6 meses)</Basic_Flow_of_Events>
+	</UseCase_Description_Profile:requirementUseCase>
 	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618591421072_713982_7073' base_Element='_18_4_1_a7002b4_1617943787777_694064_7008'>
 		<TODO>&lt;html&gt;
   &lt;head&gt;
@@ -860,47 +929,21 @@ c. Se muestra la información al usuario</Basic_Flow_of_Events>
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>8. Si la cantidad es válida se suma la cantidad ingresada al saldo actual del usuario.</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
-	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618591511758_187177_7263' base_Element='_18_4_1_a7002b4_1617943825280_861670_7032'>
-		<TODO>&lt;html&gt;
-  &lt;head&gt;
-		&lt;style&gt;
-			p {padding:0px; margin:0px;}
-		&lt;/style&gt;
-	&lt;/head&gt;
-  &lt;body&gt;
-    &lt;p&gt;
-&amp;#160;
-
-    &lt;/p&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;</TODO>
-	</MagicDraw_Profile:TODO_Owner>
-	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618591511758_187177_7263application1' base_UseCase='_18_4_1_a7002b4_1617943825280_861670_7032' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='18'>
-		<Basic_Flow_of_Events>1. Se ingresa a la pantalla principal de Administración.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Se selecciona la opción “ Ver Ranking de usuarios”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. El sistema accede a la vista de “ranking de usuarios”.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. El sistema muestra el resultado de la consulta anterior (una lista de usuarios ordenados en forma descendente según la cantidad de descargas efectuadas en los últimos 6 meses)</Basic_Flow_of_Events>
-	</UseCase_Description_Profile:requirementUseCase>
 	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589962858_530395_6284' base_UseCase='_18_4_1_a7002b4_1618466223166_266739_6054' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='6'>
-		<Basic_Flow_of_Events>1. Se ingresa a la pantalla de inicio.
+		<Basic_Flow_of_Events>1. Se ingresa a la pantalla de inicio
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Se ingresa el nombre o autor de los contenidos de interés.
+		<Basic_Flow_of_Events>2. Se ingresa el nombre o autor de los contenidos de interés
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. Se validan el tamaño (40) y formato (alfanumerico 123) de los datos ingresados.
+		<Basic_Flow_of_Events>3. Se validan el tamaño (40) y formato (alfanumerico 123) de los datos ingresados
+3.1 Si no pasa validación, se muestra el mensaje “datos inválidos”
+3.2 Se limpia el campo
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. Si no pasa validación entonces:
-4.1. Se muestra el mensaje “datos inválidos”.
-4.2. Se limpian los campos.
+		<Basic_Flow_of_Events>4. Si pasan validación, se busca en la tabla de contenidos
+
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. Si pasa validación se busca en la tabla de contenidos las coincidencias con nombre o autor.
+		<Basic_Flow_of_Events>5. Si existen en la tabla, se muestran todos los contenidos coincidentes
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>6. Si existen en la tabla, se muestran todos los contenidos coincidentes.</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>
-7. Si no existen en la tabla se muestra el mensaje “no hubo resultados”.</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>6. Si no existen en la tabla se muestra el mensaje “no hubo resultados”</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
 	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618590809762_362784_6361' base_Element='_18_4_1_a7002b4_1618533471545_226707_6641'>
 		<TODO>&lt;html&gt;
@@ -931,78 +974,6 @@ c. Se muestra la información al usuario</Basic_Flow_of_Events>
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>5. Si el usuario tiene un saldo igual a cero, se suspende la cuenta del usuario en el sistema</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
-	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618590068566_844555_6333' base_Element='_18_4_1_a7002b4_1617941909978_408017_6163'>
-		<TODO>&lt;html&gt;
-  &lt;head&gt;
-		&lt;style&gt;
-			p {padding:0px; margin:0px;}
-		&lt;/style&gt;
-	&lt;/head&gt;
-  &lt;body&gt;
-    &lt;p&gt;
-&amp;#160;
-
-    &lt;/p&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;</TODO>
-	</MagicDraw_Profile:TODO_Owner>
-	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618590068566_844555_6333application1' base_UseCase='_18_4_1_a7002b4_1617941909978_408017_6163' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='8'>
-		<Basic_Flow_of_Events> 
-1. Se ingresa la pantalla “Mi tienda”
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Se selecciona la opción “Ver ranking major puntuados”
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. El sistema muestra 10 contenidos ordenados en forma ascendente de al valor promedio de calificación, para esto:
-3.1 El sistema ingresa a la tabla contenidos
-3.2 Se ordenan los registros de acuerdo con el valor promedio de calificación
-3.3 Se muestra la información al usuario</Basic_Flow_of_Events>
-	</UseCase_Description_Profile:requirementUseCase>
-	<MagicDraw_Profile:TODO_Owner xmi:id='_18_4_1_a7002b4_1618589840584_70542_6248' base_Element='_18_4_1_a7002b4_1617941560970_734509_5971'>
-		<TODO>&lt;html&gt;
-  &lt;head&gt;
-		&lt;style&gt;
-			p {padding:0px; margin:0px;}
-		&lt;/style&gt;
-	&lt;/head&gt;
-  &lt;body&gt;
-    &lt;p&gt;
-&amp;#160;
-
-    &lt;/p&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;</TODO>
-	</MagicDraw_Profile:TODO_Owner>
-	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589840584_70542_6248application1' base_UseCase='_18_4_1_a7002b4_1617941560970_734509_5971' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='3'>
-		<Basic_Flow_of_Events>1. Se ingresa a la pantalla “Mi Tienda”
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>2. Se selecciona el producto de interés.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>3. Se selecciona la opción “comprar”
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>4. Se valida el producto (que no haya sido comprado por el usuario anteriormente):
-4.1 El sistema ingresa a la tabla historial_de_compras.
-4.2. Si el código del producto y el usuario coinciden en la tabla historial_de_compras se muestra el mensaje “Usted ya
-posee este producto” y se regresa al punto 2.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. Si el producto fue validado entonces:
-5.1. Se valida que el saldo del usuario sea mayor o igual al
-precio del producto.
-5.2. Si el saldo no es válido se muestra el mensaje “No cuenta
-con saldo suficiente para realizar esta compra” y se
-regresa al punto 1.
-5.3. Si el saldo es válido de solicita confirmar los detalles para
-la compra.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>6. Si no se confirman los detalles para la compra del producto se muestra el mensaje “Se ha cancelado la compra”
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>7. Si se confirman los detalles para la compra del producto, se actualiza el saldo del usuario (se resta el precio del producto seleccionado al saldo del usuario).
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>8. Se agrega el código del producto a la tabla historial_de_compras asociado al usuario.
-</Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>9. Empieza la descarga el contenido (Caso de uso relacionado: CU_SU_05).</Basic_Flow_of_Events>
-	</UseCase_Description_Profile:requirementUseCase>
 	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589877642_986346_6260' base_UseCase='_18_4_1_a7002b4_1617941595765_83442_5995' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='4'>
 		<Basic_Flow_of_Events>1. Se ingresa a la pantalla “Mi tienda”
 </Basic_Flow_of_Events>
@@ -1011,27 +982,38 @@ la compra.
 		<Basic_Flow_of_Events>3. Se selecciona la opción “regalar”
 </Basic_Flow_of_Events>
 		<Basic_Flow_of_Events>4. Se ingresa el nombre del usuario receptor con el siguiente formato:
-• Usuario: tamaño (12) formato (usuario).
+• Usuario: tamaño (12) formato (usuario)	
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>5. Si el usuario se encuentra en la tabla lista_de_usuarios se valida el producto (que no haya sido comprado por el usuario receptor):
-5.1. El sistema ingresa a la tabla historial de compras.
-5.2. Si el código del producto y el usuario receptor coinciden en la tabla historial_de_compras se muestra el mensaje “El usuario ya posee el producto”.
+		<Basic_Flow_of_Events>5. Si el usuario se encuentra en la tabla lista_de_usuarios se valida el producto en la tabla historial de compras del usuario receptor:
+5.1 El sistema ingresa a la tabla historial de compras
+5.2 Si el código del producto está en la tabla historial de compras:
+5.2.1 Se muestra el mensaje “El usuario ya posee el producto”
+5.3 Si el código del producto no se encuentra en la tabla historial de compras:
+5.3.1 Se muestran los detalles (código y precio) para la compra del producto
+5.3.2 Se solicita confirmar los detalles para la compra
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>6. Si el producto es válido entonces :
-6.1. Se valida que el saldo del usuario sea mayor o igual al precio del
-producto.
-6.2. Si el saldo no es válido se muestra el mensaje “No cuenta con saldo
-suficiente para realizar esta compra” y se regresa al punto 1.
-6.3. Si el saldo es válido de solicita confirmar la compra.
+		<Basic_Flow_of_Events>6. Si se confirman los detalles para la compra del producto, se resta el precio asociado al código del producto seleccionado al saldo del usuario
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>7. Si no se confirma la compra del producto se muestra el mensaje
-“Se ha cancelado el regalo”, se regresa al punto 1.
+		<Basic_Flow_of_Events>7. Se añaden el código, nombre, y estado de calificación del producto a la tabla historial de compras
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>8. Si se confirman los detalles para la compra del producto, se actualiza el saldo del usuario (se resta el precio del producto seleccionado al saldo del usuario).
+		<Basic_Flow_of_Events>8. Empieza la descarga el contenido (Caso de uso relacionado: CU_SU_05)
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>9. Se agrega el código del producto a la tabla historial_de_compras asociado al usuario.
+		<Basic_Flow_of_Events>9. Si no se confirman los detalles para la compra del producto se muestra el mensaje “Se ha cancelado el regalo”</Basic_Flow_of_Events>
+	</UseCase_Description_Profile:requirementUseCase>
+	<UseCase_Description_Profile:requirementUseCase xmi:id='_18_4_1_a7002b4_1618589787883_788179_6236' base_UseCase='_18_4_1_a7002b4_1617941281203_234087_5878' UseCase_Complexity='Average Complexity' Priority='Normal' Component_Complexity='Average Complexity' useCaseID='2'>
+		<Basic_Flow_of_Events>1. Se ingresa a la pantalla inicio de sesión
 </Basic_Flow_of_Events>
-		<Basic_Flow_of_Events>10. Se crea una notificación para el usuario receptor con el código del producto regalado y el usuario emisor.</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>2. Se ingresan los datos:
+• Usuario: tamaño (12) formato (usuario)
+• Contraseña: tamaño (6-12) formato(alfanumérico123)
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>3. Se valida la cuenta, de la siguiente manera:
+3.1 Se accede a la tabla de lista_de_usuarios
+3.2 Si el usuario existe en la tabla lista_de_usuarios, se verifica que la contraseña asociada coincida con la ingresada.
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>4. Si pasa la validación se redirige a la pantalla de “Mi tienda”
+</Basic_Flow_of_Events>
+		<Basic_Flow_of_Events>5. Si no pasan la validación se muestra el mensaje “Usuario y contraseña no coinciden”</Basic_Flow_of_Events>
 	</UseCase_Description_Profile:requirementUseCase>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
 		<filePart name='proxy.local__PROJECT$h877558e9224f114d50dea1f39a1c119_resource_com$dnomagic$dci$dmetamodel$dproject$dsnapshot' type='XML' header='&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?&gt;'>
@@ -1425,7 +1407,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
 	<xmi:Extension extender='MagicDraw UML 18.4'>
 		<filePart name='com.nomagic.ci.persistence.local.proxy.privatedependencylist' type='XML' header='&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?&gt;'>
 <snapshot:PrivateDependenciesContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:snapshot="http://www.nomagic.com/ns/cameo/client/snapshot/1.0" xmi:id="_plyMoAinEeKlPOcE--zWQQ">
-  <referencedResources xmi:id="_8NxtkKDYEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-971442f0e3f7c0a5f76ef3d9358b598?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
+  <referencedResources xmi:id="_hP8BYKDIEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-971442f0e3f7c0a5f76ef3d9358b598?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
     <referencedObjects>_17_0_2beta_9150291_1331128013151_928745_3330</referencedObjects>
     <referencedObjects>_86b026b_1101133755370_352268_1</referencedObjects>
     <referencedObjects>_be00301_1066819978618_241022_86</referencedObjects>
@@ -1436,7 +1418,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
     <referencedObjects>_86b026b_1100851488050_713066_5</referencedObjects>
     <referencedObjects>_86b026b_1101133929591_761242_5</referencedObjects>
   </referencedResources>
-  <referencedResources xmi:id="_8NxtkaDYEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
+  <referencedResources xmi:id="_hP8BYaDIEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel">
     <referencedObjects>magicdraw_uml_standard_profile_v_0001</referencedObjects>
     <referencedObjects>magicdraw_1045467069669_523610_0</referencedObjects>
     <referencedObjects>_be00301_1073394345322_922552_1</referencedObjects>
@@ -1446,7 +1428,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
     <referencedObjects>_16_8beta_8ca0285_1257244649124_794756_344</referencedObjects>
     <referencedObjects>_be00301_1077726770128_871366_1</referencedObjects>
   </referencedResources>
-  <referencedResources xmi:id="_8NxtkqDYEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-168dafff-dc4d-424f-834b-ea247bd76b45?resource=com.nomagic.magicdraw.uml_umodel.model">
+  <referencedResources xmi:id="_hP8BYqDIEeuxePNxiqI_LQ" originalResourceURI="local:/PROJECT-168dafff-dc4d-424f-834b-ea247bd76b45?resource=com.nomagic.magicdraw.uml_umodel.model">
     <referencedObjects>eee_1045467100313_135436_1</referencedObjects>
   </referencedResources>
 </snapshot:PrivateDependenciesContainer>
@@ -1846,7 +1828,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
     <mountPoints xmi:id="_gfykMIa3EeCnDf8LqBVBaA" sharePointID="magicdraw_uml_standard_profile_v_0001" containmentFeatureID="61" featureName="UML Model" containmentIndex="-1" containmentFeatureName="packagedElement">
       <mountedPoint href="PROJECT-877558e9224f114d50dea1f39a1c119?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#magicdraw_uml_standard_profile_v_0001"/>
       <mountedOn href="PROJECT-168dafff-dc4d-424f-834b-ea247bd76b45?resource=com.nomagic.magicdraw.uml_umodel.model#eee_1045467100313_135436_1"/>
-      <options xmi:id="_8J1BsKDYEeuxePNxiqI_LQ" key="preferredPath" value="::"/>
+      <options xmi:id="_hOa-cKDIEeuxePNxiqI_LQ" key="preferredPath" value="::"/>
     </mountPoints>
     <properties xmi:id="_gfykMoa3EeCnDf8LqBVBaA" key="usedVersion" value="18.4"/>
     <properties xmi:id="_hehdUIa3EeCnDf8LqBVBaA" key="LOCAL_PROJECT_ID" value="PROJECT-877558e9224f114d50dea1f39a1c119"/>
@@ -1856,7 +1838,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
     <mountPoints xmi:id="_hFyNMIa3EeCnDf8LqBVBaA" sharePointID="_be00301_1066743716538_320440_0" containmentFeatureID="61" featureName="UML Model" containmentIndex="-1" containmentFeatureName="packagedElement">
       <mountedPoint href="PROJECT-971442f0e3f7c0a5f76ef3d9358b598?resource=com.nomagic.magicdraw.uml_umodel.shared_umodel#_be00301_1066743716538_320440_0"/>
       <mountedOn href="PROJECT-168dafff-dc4d-424f-834b-ea247bd76b45?resource=com.nomagic.magicdraw.uml_umodel.model#eee_1045467100313_135436_1"/>
-      <options xmi:id="_8J1BsaDYEeuxePNxiqI_LQ" key="preferredPath" value="::"/>
+      <options xmi:id="_hOblgKDIEeuxePNxiqI_LQ" key="preferredPath" value="::"/>
     </mountPoints>
     <properties xmi:id="_hFyNMoa3EeCnDf8LqBVBaA" key="loadIndex" value="true"/>
     <properties xmi:id="_hFyNM4a3EeCnDf8LqBVBaA" key="usedVersion" value="18.4"/>
@@ -1871,11 +1853,11 @@ suficiente para realizar esta compra” y se regresa al punto 1.
   <properties xmi:id="_egFWQYa3EeCnDf8LqBVBaA" key="internalVersion" value="-1"/>
   <properties xmi:id="_he0YQIa3EeCnDf8LqBVBaA" key="exporterDescription" value="ac ed 0 5 73 72 0 2e 63 6f 6d 2e 6e 6f 6d 61 67 69 63 2e 70 65 72 73 69 73 74 65 6e 63 65 2e 58 6d 69 45 78 70 6f 72 74 65 72 44 65 73 63 72 69 70 74 69 6f 6e f5 3e fd c8 e7 3c 3b d7 2 0 5 4c 0 5 6d 4e 61 6d 65 74 0 12 4c 6a 61 76 61 2f 6c 61 6e 67 2f 53 74 72 69 6e 67 3b 4c 0 12 6d 52 65 71 75 69 72 65 64 50 6c 75 67 69 6e 4d 61 70 74 0 f 4c 6a 61 76 61 2f 75 74 69 6c 2f 4d 61 70 3b 4c 0 12 6d 52 65 71 75 69 72 65 64 52 65 73 6f 75 72 63 65 73 74 0 10 4c 6a 61 76 61 2f 75 74 69 6c 2f 4c 69 73 74 3b 4c 0 10 6d 55 4d 4c 4e 61 6d 65 73 70 61 63 65 55 52 49 71 0 7e 0 1 4c 0 8 6d 56 65 72 73 69 6f 6e 71 0 7e 0 1 78 70 74 0 d 4d 61 67 69 63 44 72 61 77 20 55 4d 4c 73 72 0 11 6a 61 76 61 2e 75 74 69 6c 2e 48 61 73 68 4d 61 70 5 7 da c1 c3 16 60 d1 3 0 2 46 0 a 6c 6f 61 64 46 61 63 74 6f 72 49 0 9 74 68 72 65 73 68 6f 6c 64 78 70 3f 40 0 0 0 0 0 0 77 8 0 0 0 10 0 0 0 0 78 73 72 0 13 6a 61 76 61 2e 75 74 69 6c 2e 41 72 72 61 79 4c 69 73 74 78 81 d2 1d 99 c7 61 9d 3 0 1 49 0 4 73 69 7a 65 78 70 0 0 0 0 77 4 0 0 0 0 78 70 74 0 7 31 38 2e 34 20 76 32 "/>
   <properties xmi:id="_he-JQIa3EeCnDf8LqBVBaA" key="MODULES_DIRS" value="&lt;project.dir>&lt;>&lt;install.root>\profiles&lt;>&lt;install.root>\modelLibraries"/>
-  <properties xmi:id="_Ue1uoMQfEeCCnL1Mh7NN5g" key="fileVersion" value="57"/>
+  <properties xmi:id="_Ue1uoMQfEeCCnL1Mh7NN5g" key="fileVersion" value="55"/>
   <properties xmi:id="_Ue_foMQfEeCCnL1Mh7NN5g" key="MODEL_ROOT_HREF" value="local:/PROJECT-168dafff-dc4d-424f-834b-ea247bd76b45?resource=com.nomagic.magicdraw.uml_umodel.model#eee_1045467100313_135436_1"/>
   <properties xmi:id="_pmJZAAinEeKlPOcE--zWQQ" key="CI_VERSION" value="V1702_SP1"/>
   <properties xmi:id="_WZF7INnXEeSt1dUa3K1eOA" key="fileFormatVersion" value="18.1 beta.esi"/>
-  <properties xmi:id="_oYwyEG6KEeWoxPthTK0iTA" key="saveID" value="f7f3a235-d67c-4220-8b32-14347eceea82"/>
+  <properties xmi:id="_oYwyEG6KEeWoxPthTK0iTA" key="saveID" value="8c322b1e-d48d-4ce2-9ad6-de9fe52d16ff"/>
   <projectUsers xmi:id="_efVvZIa3EeCnDf8LqBVBaA" userId="default"/>
 </project:Project>
 </filePart>
@@ -2026,10 +2008,10 @@ suficiente para realizar esta compra” y se regresa al punto 1.
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
-		<filePart name='Binaries.properties' type='BINARY'>H4sIAAAAAAAAADWNvQrCMBgA90LfIdDVLzTJlzYpOFQnBxXExUnyW4SmkYL4+oaCyy13cE1dNee8kPG9EqZJywbBBqnI8XonvOWsrlxOdMnJTC9HN/rVfOknzc+UfZjpxv3hdBlvD2DKuKgDgmG8B0TkYPqowUrHBXYWhTS7fxs8opcIaFEDCh5AdV1pMQoViwqh7H/2dKZYoQAAAA==</filePart>
+		<filePart name='Binaries.properties' type='BINARY'>H4sIAAAAAAAAADWNsQrCMBgG90LfIdDVP5g/X2pacKhOLgrq4iRpmojQtFIovr6l4HLLHVyRZ8VtHkTzmYSygnWtUbMRx8td8JZVnvkxyWFM7vX2cmU3ua+cU/9MYxd6uXJ/OJ2b64OUdT5WAeQU7wgAk9vFilrjWaNsoY3b/NvQAZ0BoUVF0BzIluXSImobFxXCsv8Bi9caBaEAAAA=</filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
-		<filePart name='personal-Binaries.properties' type='BINARY'>H4sIAAAAAAAAAFPm5VL2zc9TcCwoUjC0VDAwtDI2tDK1UHD2D1EwMjAy5OUCALdrW8EiAAAA</filePart>
+		<filePart name='personal-Binaries.properties' type='BINARY'>H4sIAAAAAAAAAFPm5VIOLs1TcCwoUjC0UDAytjI2sTIyVXD2D1EwMjAy5OUCALquedAiAAAA</filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
 		<filePart name='BINARY-18acf9e4-a127-4442-a7f9-b5c2346b435a' type='XML' header='&lt;?xml version=&#39;1.0&#39; encoding=&#39;UTF-8&#39;?&gt;'>
@@ -2331,7 +2313,7 @@ suficiente para realizar esta compra” y se regresa al punto 1.
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
 		<filePart name='personal-com.nomagic.magicdraw.core.project.options.personalprojectoptions' type='XML' header='&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?&gt;'>
-<project.options:UserProjectOptions xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:project.options="http://www.nomagic.com/ns/magicdraw/core/project/options/1.0" xmi:id="_efVvZoa3EeCnDf8LqBVBaA" optionsString="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" diagramViewStyleString="UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAAAAkAVVQFAAEAAAAA7VfLcqJAFF3Hr3DHKko/aJopNGUimbJqEi11Hm5CdaBjugpoCtBovj4dMBqS0Wh0FjOjmxbuPfdxbtMH7LNZGFSnPEmFjBoaqOlalUee9EU0bmjfh5enVDtrVip2L5ExT7L5D5GKTCYtz+OxWpuVEzv0nYCHPMqqvFgvApamDW0gwjjgg2wecE35ndgRC3lzMBx9c9x2p/W137pye/1uz+kPO87ArufmZz+f37FJkFVnofgyZcGEN7Q7FqRcq+fmdfleSrxiERvzJM+5SOoC6mIXuMzUdXir/hFgWhgAYloGUkYTU9M1KECrKk7suByv014TBhFD1xFxgaFjy3CJhVSY9+A85rraryfhLU9eOihKX1Wg0I9ShpfMU5SvYi+CrvzaPPUSEWdqliWI23YGF/1Ob9jpXq/gZe8iUk73a+L1GrHyH6W6aekmKIagXLN5XPKES0sgH/osGpesoIZ1AC2KCUYQU2A6p9hYIu7F+P4dBCkIpBBhQhA1IKXEQXQBsetLJjcTey5lwFm0gVlfsHHCwm7MI+5vTW4JtQe/WTLhh+9JTV1M+dbNFO7bdrF1nR9u6gWJAy+RQdCT6mRRWX7tOoM38L02u75xE5/CGsDqrEAEU8fadWyfo2O0Hx2jPejA8M8ScnEvhcc/JuSniHz5cC4nkZ/uysZr7I5UNO16sRb3vLza0gF1A40bADG+MSy65Ekl5LMSSeDwD3jIZiIUjzscWEvEJx/zt5cHU2GkdAUp+SQ6gcqBEIw/r8KmC5RmoGcRxv+SCNNChE0C1FsKhkcV/u9V+EBd/HUajY8iXWqXHDX6qNG/1ejSlV1f9wX/BFBLBwh/891hdAIAAAMQAABQSwECFAAUAAgICAAAACEAf/PdYXQCAAADEAAAAAAJAAAAAAAAAAAAAAAAAAAAVVQFAAEAAAAAUEsFBgAAAAABAAEANwAAAKsCAAAAAA=="/>
+<project.options:UserProjectOptions xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:project.options="http://www.nomagic.com/ns/magicdraw/core/project/options/1.0" xmi:id="_efVvZoa3EeCnDf8LqBVBaA" optionsString="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" diagramViewStyleString="UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAAAAkAVVQFAAEAAAAA7Zddc6IwFIav9Vd4x1WVkBDCDtpple44s62Ouh/eyKSQamaAMIBW++ubgtVix6qr24uu3ETMeU9OnsB51bqcB35lxuKEi7CugKqqVFjoCo+H47ryc3BzQZTLRrlsdWMRsThd/OIJT0V85boskmOjXLICz/ZZwMK0wvKx6dMkqSt9HkQ+66cLnykyrmSFNGCN/mD4w3Za7avvvatbp9vrdO3eoG33rVo2/RLnsQc69dPKPODfZtSfsrryQP2EKbVsett6ryXe0pCOWZytuVzUAcRBDnCooaravfyEgWEiALBh6lBOGogYjk4AXFdRsqJivnZrSxqIdVWF2AG6ikzdwSaUad6Ls5zbar+bBvcsft1BXvq6Aql+EiK4oa5Evs69TLqOa7HEjXmUyrMsSJyW3W/22t1Bu3O3lhej80wZ7rfgQRWo2aVBggDRSX4IMjRdRIVIbTXji8ceDccbeZAKNJMgjKCGCDDsC6SvFBM+nryTQCnRiAYRxpDoGiHYhq/LW7UVyY/BXgvhMxp+QNbjdBzToBOxkHl7wy2ojuCbxlN2+j3JU+cztvdm8vBP3sXOR36JuO/Gwve7QvYdWcOfQ09oQ37Mq4BV2R4/esgvtCpAspdAjIhtfg6Q4XFAhkcA+bc4mhPBXbYbx28eeuLxWkxDLzmUxVvtgSAaVi0f8+/crNpC+xpp+kjXzZFOzBUmuR6bFxiB07/9AZ3zgD8d0M1Win0hbFS7eXsyi4aqIe0UO1jFmgzAGKG/t2jDAdJQ4ItDo6/j0GqVmNllYCB/wiANnC36f7for2vCpnH24LMHnz14lwcX7qzatr/vz1BLBwilV2PRbgIAAAAQAABQSwECFAAUAAgICAAAACEApVdj0W4CAAAAEAAAAAAJAAAAAAAAAAAAAAAAAAAAVVQFAAEAAAAAUEsFBgAAAAABAAEANwAAAKUCAAAAAA=="/>
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
@@ -2390,6 +2372,6 @@ suficiente para realizar esta compra” y se regresa al punto 1.
 </filePart>
 	</xmi:Extension>
 	<xmi:Extension extender='MagicDraw UML 18.4'>
-		<filePart name='Records.properties' type='BINARY'>H4sIAAAAAAAAAMVUTY+bMBC9I/EfkJarUQwmwEocdqMeWqndarWXniJjjxdXYCPjtM2/r5OQbpqEbmmT9mKM/ebr+c3cLHTbUSsr2Ui7DkBZs/a9m/daBXedCXARzPBtgm/TPFg8PAXxLMa+14HptaINYrqNlG7ps2TRduWGfo2YNhB1Rn8GZiPdWalVH+1thvPhuLycK5eW0d/WUaMZbZbLj48P794snsIaz3NOhRBhzRnhYU1i4vZ5QqqwBhqTrOLZvCLp0kCvV4bB0qUS8iGXkP9IJuSrtlmuWs2hcce7T69o19falv8zuO8dssdk1IKlW8yeu/I1wImLXT37CBGHnhnZWW0Otv2x298y8r37tx/uHj8hDJwQnhJEKlIgksSA8vm8QBURSS7cFQAuJ2DHFJBnWZrmUMSOfIydlxkHikVSUMwwLsa4Z9IRvecp5ANRrz75laIddN29VNRI6Dd0u0PrtuWvLn1vSA7t5Yg2akQbMaKNFtGhFMsp4J9lc9C34Fq3bbVirhxQz1IBGKmey2nwU1W6MmVvQTmLLfGD5Dojv1ALHDpQ3N2uG4c6UecU4wuLaaSR+5oa4C+/V5HWtNijT3puFO9e7Wim/6X9y3zIKRMFEERxnCFCSIxoJlzPpyxOiJNfktJyAtY5PtM5ZxvmfAkb9nZTc7uOFHqEGhNSkWGXpZhBIjI2o6nI5iASXiRpXqVFflUh/ZPYFy78D8fxlaL53nfkmfviOgkAAA==</filePart>
+		<filePart name='Records.properties' type='BINARY'>H4sIAAAAAAAAAMVUTY+bMBC9I/EfkJarUWxMgJU47EY9tIdutd1LT5Gxx4srsJEhbfPv6ySkmyahW9qkvRhjv/l6fjM3C9O0rFelqlW/DkD3du17Nx9XOrhrbYCzgMS3Mb0lSbB4eArIjGDfa8F2RrMacdNE2jTsWfFouwrLvkbcWIhaaz4D7yPT9sroLtrbDOfDcXE5Vy4ta76to9pwVi+XHx4f3r1ZPIUVnmeCSSnDSnAqwooS6vZZTMuwAkZoWop0XtJkaaEzK8th6VIJxZBLKH4kE4pVUy9XjRFQu+Pdp9Os7SrTF/8zuO8dssdV1EDPtpg9d8VrgBMXu3r2ESIBHbeq7Y092HbHbn/LyPfu376/e/yEMAhKRUIRLWmOaEwAZfN5jkoq40y6KwBcTMCOKSBL0yTJICeOfIydl5kAhmWcM8wxzse458oRvecpFANRrz75laIddN290swq6DZ0u8PebYtfXfrekBzayxFt1Ig2YkQbLaJDKRZTwD/L5qBvwbVu0xjNXTmgn5UGsEo/F9Pgp6p0ZaquB+0stsQPkmut+sJ6ENCCFu52XTvUiTqnGF9YTCON3FXMgnj5vYq0psUefdJzo3j3akcz/S/tX+ZDxrjMgSKGSYoopQSxVLqeTziJqZNfnLBiAtY5PtM5ZxvmfAkb9nZTc7uOFHqEGhNSnmKXpZxBLFM+Y4lM5yBjkcdJViZ5dlUh/ZPYFy78D8fxlaL53ne6/XFLOgkAAA==</filePart>
 	</xmi:Extension>
 </xmi:XMI>
